@@ -1,6 +1,4 @@
-#navB {
-    background-color: #2f3e46;
-} 
+
 
 /*Importamos la tipografia desde google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,700;1,400&display=swap');
@@ -10,7 +8,7 @@
     /*las variables en css se crean agregando 2 guiones al principio --nombre_variable*/
     --dark-color-lighten: #eaeaea;
     /* --red-card: #2f3e46; */
-    --red-card: #a3b18a;
+    --red-card: #01bb88;
     --btn: #141414;
     --btn-hover: #3a3a3a;
     --text: #ffffff;
@@ -43,6 +41,7 @@ button{
 #card_img{
     max-width: 100%;
     height: 100%;
+    display 
 }
 
 /*=== CARD ===*/

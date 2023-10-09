@@ -1,3 +1,17 @@
 #navB {
-    background-color: #2f3e46;
+    background-color: #11141a;
 } 
+
+#search{
+    background-color: #11141a;
+    color: #fff;
+    border: #01bb88 solid;
+    &:hover{
+        background-color: #01bb88;
+    }
+    transition: ease-in-out 0.3s;
+}
+
+#bbod{
+    background-color: #191d27;
+}
